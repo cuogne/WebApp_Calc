@@ -1,1 +1,4 @@
-# WebApp_Calc
+- A web app calculator + - * / simple with streamlit
+- Streamlit is an open-source Python framework for machine learning and data science.
+- docs streamlit : https://docs.streamlit.io/library/api-reference
+- Link web app : https://cuognecalc.streamlit.app/
