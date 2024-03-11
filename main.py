@@ -1,5 +1,5 @@
 import streamlit as st
-from calc import add, subtract, multiply, divide, mod, factorial, square Root, exponentiation
+from calc import add, subtract, multiply, divide, mod, factorial, square_root, exponentiation
 def main():
     st.title("Calculator")
     operation = st.radio("Select operation:", ["Add", "Subtract", "Multiply", "Divide", "Mod","Factorial", "Square Root", "Exponentiation"])
